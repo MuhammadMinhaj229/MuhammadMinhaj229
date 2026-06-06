@@ -4,7 +4,7 @@
 
 📍 Hyderabad, India · Open to Relocate  
 📧 minhajmuhammad229@gmail.com | ☎️ +91 9908597337  
-🔗 [LinkedIn](https://linkedin.com) | [Portfolio](#projects) | [Resume](./resume.pdf)
+🔗 [LinkedIn](https://www.linkedin.com/in/muhammadminhaj229) | [Portfolio](https://mohammedminhaj.netlify.app/) | [Resume](https://drive.google.com/file/d/1ZiRpUHnBwE64CfzRzf0e0xR_7eJffwDR/view?usp=drive_link)
 
 ---
 
