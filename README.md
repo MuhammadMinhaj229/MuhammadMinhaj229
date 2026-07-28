@@ -92,7 +92,7 @@ I transform complex data into actionable insights and deploy production-grade ma
   * 🔬 **MLOps:** 40+ MLflow experiments, Model Registry versioning
   * ⚡ **Deployment:** FastAPI endpoint (<100ms response) + Streamlit dashboard.
 
-[🔗 View Project](https://github.com/MuhammadMinhaj229/demand-forecasting-timeseries)
+[🔗 View Project](https://github.com/MuhammadMinhaj229/demand-forecasting-timeseries) | [📊 Live Dashboard](https://demand-forecasting-timeseries-2c28agejbap9ell2fr9owv.streamlit.app/)
 
 ---
 
@@ -104,7 +104,7 @@ I transform complex data into actionable insights and deploy production-grade ma
   * 🚨 **Actionable Insights:** Battery life & delivery flagged as top negative topics (9,800+ critical reviews)
   * 📊 **Scale Impact:** **100% review coverage** vs prior 1% manual sampling (100x intelligence expansion).
 
-[🔗 View Project](https://github.com/MuhammadMinhaj229/nlp-review-intelligence)
+[🔗 View Project](https://github.com/MuhammadMinhaj229/nlp-review-intelligence) | [📊 Live Dashboard](https://nlp-review-intelligence-l4vsrtkyi828h8s2dyjxhr.streamlit.app/)
 
 ---
 
@@ -129,7 +129,7 @@ I transform complex data into actionable insights and deploy production-grade ma
   * 📊 **Monitoring:** EvidentlyAI weekly drift detection with automated HTML reports
   * ✅ **Quality Metrics:** 87% test coverage, 99.7% API uptime, full MLflow tracking.
 
-[🔗 View Project](https://github.com/MuhammadMinhaj229/end-to-end-ml-pipeline)
+[🔗 View Project](https://github.com/MuhammadMinhaj229/end-to-end-ml-pipeline) | [📊 Live Dashboard](https://end-to-end-ml-pipeline-nqkrhynite6pfvygrzlm92.streamlit.app/)
 
 ---
 
@@ -152,7 +152,7 @@ I transform complex data into actionable insights and deploy production-grade ma
   * 📊 **Model Ensemble:** Comparing Logistic Regression, Naive Bayes, Ridge, and XGBoost classifiers
   * 🚜 **Application UI:** Interactive Streamlit dashboard showing classification confidence rankings.
 
-[🔗 View Project](https://github.com/MuhammadMinhaj229/Vision-Based-Terrain-Classification)
+[🔗 View Project](https://github.com/MuhammadMinhaj229/Vision-Based-Terrain-Classification) | [📊 Live Dashboard](https://vision-based-terrain-classification-bfzfgwhcu8npbf6lyipfyh.streamlit.app/)
 
 ---
 
