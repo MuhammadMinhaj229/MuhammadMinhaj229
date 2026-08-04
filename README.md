@@ -1,20 +1,21 @@
 # 👋 Mohammed Minhaj Mahmood
 
-**Data Science & Analytics Engineer** | ML | NLP | Causal Inference | MLOps
+**Data Science & Analytics Engineer | Founder @ Alif Growth Media**  
+ML | Causal Inference | NLP | MLOps & Business Automation
 
 📍 Hyderabad, India · Open to Relocate  
 📧 minhajmuhammad229@gmail.com | ☎️ +91 9908597337  
-🔗 [LinkedIn](https://www.linkedin.com/in/muhammadminhaj229) | [Portfolio](https://mohammedminhaj.netlify.app/) | [Resume](https://drive.google.com/file/d/1ZiRpUHnBwE64CfzRzf0e0xR_7eJffwDR/view?usp=drive_link)
+🔗 [LinkedIn](https://www.linkedin.com/in/muhammadminhaj229) | [Portfolio](https://mohammedminhaj.netlify.app/) | [GitHub](https://github.com/MuhammadMinhaj229)
 
 ---
 
 ## 🎯 About Me
 
-Results-driven **Data Science & Analytics Engineer** with a B.Tech in Computer Science (Data Science) and a hands-on portfolio of **7 end-to-end ML projects** spanning customer intelligence, time series forecasting, NLP, causal inference, image classification, and MLOps. 
+Results-driven **Data Science & Analytics Engineer** combining a B.Tech in Computer Science (Data Science) with entrepreneurial problem-solving as the **Founder of Alif Growth Media**. I bring a proven track record of **7 end-to-end Machine Learning systems** spanning explainable customer churn (SHAP), causal inference (CausalML), time series forecasting, NLP review intelligence, and containerized MLOps.
 
-I transform complex data into actionable insights and deploy production-grade machine learning systems that drive measurable business impact. I'm passionate about the full data science lifecycle—from exploratory data analysis and feature engineering to model deployment and monitoring.
+I specialize in transforming raw data into measurable commercial growth and deploying production-grade automated systems that drive real business ROI.
 
-**Currently seeking:** Associate Data Scientist | Data Analyst | ML Engineer (Associate) | Business Analyst roles
+**Currently exploring:** Associate Data Scientist | Data Analyst | ML Engineer | Business Analyst opportunities
 
 ---
 
@@ -43,6 +44,20 @@ I transform complex data into actionable insights and deploy production-grade ma
 📊 Data Viz: Plotly, Matplotlib, Seaborn, Tableau, Power BI
 🛠️ Tools: Git, GitHub, Jupyter, VS Code
 ```
+
+---
+
+## 💼 Professional Experience & Entrepreneurship
+
+### **Founder & Growth Engineer** | Alif Growth Media
+*March 2026 – Present · Hyderabad, India*
+- 🚀 **Growth Architecture:** Established a structured business automation framework (*Understand → Design → Automate → Grow*) across digital marketing, web engineering, and automated customer communication workflows.
+- 🤝 **Client Impact:** Delivered end-to-end technical implementations for regional clients (*SAFA Fresh, DT Interiors, Sumera Collections, Windoor Constructions*), scaling toward value and profit-share business models.
+
+### **Web Development & Data Analytics Intern** | Edunet Foundation
+*December 2024 – January 2025*
+- ⚙️ **Engineering Standards:** Collaborated within a structured software engineering workflow implementing agile methodologies and technical documentation standards.
+- 📊 **Pipeline Development:** Built and refined data-driven web modules involving real-time data handling, rigorous validation, version control, and automated quality verification.
 
 ---
 
@@ -201,10 +216,14 @@ I'm actively looking to contribute to teams solving real-world business problems
 
 ---
 
+## 📈 GitHub Activity & Competencies
+
 <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MuhammadMinhaj229&show_icons=true&theme=radium&hide_border=true" alt="Minhaj's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadMinhaj229&layout=compact&theme=radium&hide_border=true" alt="Top Languages" />
 
-**⭐ If you find my projects useful, please consider giving them a star!**
-
-*Last updated: July 2026*
-
+  <br><br>
+  **⭐ If you find my projects useful, please consider giving them a star!**
+  <br>
+  *Last updated: August 2026*
 </div>
