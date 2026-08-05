@@ -1,4 +1,4 @@
-# Hi, I’m Muhammad Minhaj
+# Hi, I’m Mohammed Minhaj
 
 I’m building my path in data, analytics, and machine learning through consistent hands-on work.
 
