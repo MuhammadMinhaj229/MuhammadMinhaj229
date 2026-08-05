@@ -51,6 +51,12 @@ My current direction is to:
 
 ---
 
+## Resume
+- **Resume (View):** https://drive.google.com/file/d/1tpOBuj0llV3RuheG-z9btNNowmoK4MbP/view?usp=drivesdk
+- **Resume (Download):** https://drive.google.com/uc?export=download&id=1tpOBuj0llV3RuheG-z9btNNowmoK4MbP
+
+---
+
 ## Selected links
 - **LinkedIn:** https://www.linkedin.com/in/muhammadminhaj229
 - **GitHub:** https://github.com/MuhammadMinhaj229
