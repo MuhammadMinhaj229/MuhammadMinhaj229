@@ -2,9 +2,50 @@
 
 Software and data systems engineer based in Telangana, India.
 
-I build reliable web applications, operational software tools, and production machine learning pipelines. My focus is on turning ambiguous requirements and messy datasets into clean, predictable software that works in real environments.
+I build reliable web applications, operational business software, and production machine learning pipelines. My focus is on turning ambiguous requirements and messy datasets into clean, predictable software that works in real environments.
 
 [Portfolio](https://mohammed-minhaj.netlify.app/) | [LinkedIn](https://www.linkedin.com/in/muhammadminhaj229) | [Resume](https://drive.google.com/file/d/1tpOBuj0llV3RuheG-z9btNNowmoK4MbP/view?usp=drivesdk) | [Email](mailto:minhajmuhammad229@gmail.com)
+
+---
+
+## Systems Architecture Overview
+
+```mermaid
+flowchart TB
+    subgraph ClientLayer["Client & Web Applications"]
+        direction LR
+        SafarStudio["Safar Studio<br/>Visual In-Place CMS"]
+        InvofyApp["Invofy<br/>1-Tap Invoicing & Ledger"]
+        RepCountApp["RepCount<br/>Membership & Dues CRM"]
+        SafarCRM["Safar CRM<br/>WhatsApp Pipeline Hub"]
+        SumeraApp["Sumera Collections<br/>D2C Storefront"]
+        SpotifyApp["Spotify Platform<br/>Streaming & Realtime Chat"]
+    end
+
+    subgraph DataML["Machine Learning & Analytics Pipelines"]
+        direction LR
+        DemandFC["Demand Forecasting<br/>LightGBM & Prophet"]
+        MLOps["End-to-End MLOps<br/>FastAPI & EvidentlyAI"]
+        NLPReview["Review Intelligence<br/>DistilBERT & BERTopic"]
+        AQI["Air Quality Prediction<br/>FastAPI & Random Forest"]
+        RAG["Adaptive RAG<br/>Qdrant Vector DB"]
+    end
+
+    subgraph InfraLayer["Data & Cloud Infrastructure"]
+        direction LR
+        SupabaseDB[("PostgreSQL & Supabase")]
+        MongoDB[("MongoDB Database")]
+        VectorDB[("Qdrant Vector Index")]
+        EdgeNet["Vercel Edge & Netlify"]
+        DockerHost["Docker Containers & Render"]
+    end
+
+    ClientLayer --> SupabaseDB
+    ClientLayer --> MongoDB
+    ClientLayer --> EdgeNet
+    DataML --> VectorDB
+    DataML --> DockerHost
+```
 
 ---
 
