@@ -1,75 +1,70 @@
-# Hi, I’m Mohammed Minhaj
+# Hi, I'm Mohammed Minhaj Mahmood 👋
 
-I’m building my path in data, analytics, and machine learning through consistent hands-on work.
+**Founder & Systems Engineer at [Alif Growth Media](https://alif-growth.netlify.app) | Full-Stack Architect & Applied AI Builder**
 
-This profile is a timeline of what I’ve learned, built, and improved over time.
+Based in Telangana, India · Operating across India & the Gulf
 
----
-
-## My journey so far
-
-### 1) Foundation: learning by doing
-I started by strengthening my core skills in Python, SQL, statistics, and data storytelling. Instead of only completing lessons, I focused on applying each concept in small practical exercises.
-
-That phase helped me build discipline: break a problem down, clean the data carefully, test ideas, and explain results clearly.
-
-### 2) First real projects: from concepts to outcomes
-As I progressed, I moved into complete end-to-end projects where I handled everything from data preparation to model building and simple deployment.
-
-A few milestones from this stage:
-- **Customer Segmentation** — clustering users to identify meaningful customer groups and support better business decisions.
-- **Vision-Based Terrain Classification** — using computer vision and ML techniques to classify terrain types.
-- **Alif Growth** — a live project that reflects my interest in combining analytics with practical product thinking.
-
-These projects taught me that model accuracy is only one part of the work; clarity, usability, and real-world context matter just as much.
-
-### 3) Professional growth: structure, communication, and consistency
-After building project confidence, I focused on improving how I work:
-- writing cleaner and more maintainable code,
-- organizing experiments and results,
-- presenting findings in a way non-technical people can follow,
-- and shipping projects that are easier to review and reuse.
-
-I also completed certifications and industry learning experiences that improved my understanding of business contexts, enterprise tools, and professional workflows.
-
-### 4) Where I am now
-Right now, I’m continuing to grow as a practitioner who can:
-- turn messy data into structured insight,
-- build practical ML solutions,
-- and communicate the “why” behind decisions.
-
-I’m especially interested in work at the intersection of:
-- **Data Analytics**
-- **Machine Learning**
-- **Applied AI products**
-
-### 5) What I’m building next
-My current direction is to:
-- deepen ML fundamentals further,
-- improve deployment and MLOps skills,
-- and build more projects that solve focused, real user or business problems.
+[![Website](https://img.shields.io/badge/Website-alif--growth.netlify.app-0f3830?style=for-the-badge&logo=netlify&logoColor=c99b3b)](https://alif-growth.netlify.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-mohammed--minhaj.netlify.app-06B6D4?style=for-the-badge&logo=netlify&logoColor=white)](https://mohammed-minhaj.netlify.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mohammed_Minhaj-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammadminhaj229)
+[![Email](https://img.shields.io/badge/Email-hello.alifstudio%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hello.alifstudio@gmail.com)
 
 ---
 
-## Resume
-- **Resume (View):** https://drive.google.com/file/d/1tpOBuj0llV3RuheG-z9btNNowmoK4MbP/view?usp=drivesdk
-- **Resume (Download):** https://drive.google.com/uc?export=download&id=1tpOBuj0llV3RuheG-z9btNNowmoK4MbP
+## ⚡ What I Do
+
+I help businesses and modern enterprises transition from disconnected tools into clean, reliable, self-operating digital infrastructure. As the founder of **Alif Growth Media**, I act as a hybrid technical team and fractional CTO for local retail showrooms, supermarkets, gyms, clinics, and professional firms.
+
+I don't just write code — I build, deploy, and actively manage complete production systems:
+- **In-Place Visual CMS Platforms:** High-speed web storefronts where non-technical owners edit text, banners, and catalogs directly on their live screens without touching code.
+- **WhatsApp Customer CRMs & Lead Engines:** Unified multi-agent inboxes with instant automated replies, product catalogs, and lead tracking.
+- **1-Tap Digital Invoicing & Cash Ledgers:** Fast mobile receipts sent straight to customer WhatsApp, tracking daily cash vs. UPI revenue.
+- **Mobile Executive Dashboards:** Real-time visibility into customer histories, repeat orders, web traffic, and warehouse inventory.
+- **Applied Machine Learning & MLOps:** Production-ready predictive modeling, causal inference, demand forecasting, and adaptive RAG pipelines.
 
 ---
 
-## Selected links
-- **LinkedIn:** https://www.linkedin.com/in/muhammadminhaj229
-- **GitHub:** https://github.com/MuhammadMinhaj229
-- **Portfolio:** https://mohammed-minhaj.netlify.app/
-- **Email:** minhajmuhammad229@gmail.com
+## 🚀 Flagship Systems & Live Deployments
 
-### Projects
-- **Alif Growth:** https://alif-growth.netlify.app/
-- **Customer Segmentation (Code):** https://github.com/MuhammadMinhaj229/customer-segmentation
-- **Customer Segmentation (App):** https://customer-segmentation-efb7gqwwg2sqdzpymxxbz5.streamlit.app/
-- **Vision-Based Terrain Classification (Code):** https://github.com/MuhammadMinhaj229/Vision-Based-Terrain-Classification
-- **Vision-Based Terrain Classification (App):** https://vision-based-terrain-classification-bfzfgwhcu8npbf6lyipfyh.streamlit.app/
+| Project | Live Demo | Focus Area | Tech Stack |
+| :--- | :--- | :--- | :--- |
+| **Alif Growth Media** | [alif-growth.netlify.app](https://alif-growth.netlify.app) | Hybrid Tech Team & Operating System Platform | TanStack Start, React 19, TypeScript, TailwindCSS, Netlify Edge |
+| **Safar Studio** | [safar-studio-snm.vercel.app](https://safar-studio-snm.vercel.app) | In-Place Visual CMS & Website Publishing Engine | Next.js, Puck CMS, Supabase, TypeScript, Tailwind |
+| **Safar WhatsApp CRM** | [safar-crm-theta.vercel.app](https://safar-crm-theta.vercel.app) | WhatsApp Team Inbox, Pipeline & Auto-Responder | React, TailwindCSS, Supabase, Node.js, Vercel |
+| **Invofy** | [invofy-kappa.vercel.app](https://invofy-kappa.vercel.app) | 1-Tap PDF Billing, Cash Ledgers & WhatsApp Receipts | Next.js 14, TypeScript, Supabase, Tailwind, Vercel |
+| **RepCount** | [e-repcount-gym-payment-manager.vercel.app](https://e-repcount-gym-payment-manager.vercel.app) | Gym Membership CRM, Fee Recovery & Dues Alerts | Vite, React, Redux Toolkit, Supabase, Tailwind, Vercel |
+| **Data Automation Studio** | [data-automation-studio-orpin.vercel.app](https://data-automation-studio-orpin.vercel.app) | On-Device Longitudinal Data Quality & CONSORT Studio | Next.js 14, TypeScript, Web Workers, PapaParse, XLSX |
+| **THAKSA E-Learning** | *Enterprise Internal* | Full-Stack Workshop & Student Learning Management | React, Node.js, Express, PostgreSQL, GSAP, Lenis |
 
 ---
 
-Thanks for visiting my profile. I’m always open to learning, collaboration, and meaningful data-driven work.
+## 🧠 Applied AI, Machine Learning & Analytics
+
+- **[Demand Forecasting & Time Series Pipeline](https://github.com/MuhammadMinhaj229/demand-forecasting-timeseries):** Production forecasting engine comparing LightGBM, Prophet, and ARIMA with MLflow tracking, FastAPI endpoints, and a live Streamlit dashboard.
+- **[Causal Inference & Uplift Modeling](https://github.com/MuhammadMinhaj229/ab-testing-uplift-modeling):** Rigorous A/B test analysis, two-model uplift estimation, and incremental conversion targeting.
+- **[Adaptive RAG Architecture](https://github.com/MuhammadMinhaj229/Adaptive-Rag):** Multi-hop retrieval-augmented generation with query routing, dynamic document reranking, and self-correction.
+- **Computer Vision & Gesture Control:** Real-time OpenCV and MediaPipe visual controllers for hands-free media interaction.
+
+---
+
+## 🛠️ Engineering Toolkit
+
+```
+Languages     : TypeScript, JavaScript (ESNext), Python 3.11+, SQL (PostgreSQL), HTML5, CSS3
+Frontend      : React 19, Next.js (App & Pages), TanStack Start/Router, Vite, TailwindCSS, Framer Motion
+Backend & DB  : Node.js, Express, FastAPI, Supabase (Auth, Storage, Edge Functions), PostgreSQL, Redis
+Cloud & DevOps: Vercel, Netlify, Docker, GitHub Actions (CI/CD), Cloudflare DNS
+AI & Data     : PyTorch, Scikit-learn, LightGBM, Prophet, MLflow, LangChain, PapaParse, OpenCV
+```
+
+---
+
+## 🤝 Let's Collaborate
+
+I am always interested in discussing technical architecture, business automation, or building custom software for ambitious companies.
+
+- **Founder:** Alif Growth Media (Warangal & Hyderabad, Telangana)
+- **Direct WhatsApp:** [+91 80194 00229](https://wa.me/918019400229)
+- **Email:** [hello.alifstudio@gmail.com](mailto:hello.alifstudio@gmail.com) / [minhajmuhammad229@gmail.com](mailto:minhajmuhammad229@gmail.com)
+- **LinkedIn:** [linkedin.com/in/muhammadminhaj229](https://www.linkedin.com/in/muhammadminhaj229)
+- **Schedule an Audit:** [alif-growth.netlify.app/contact](https://alif-growth.netlify.app/contact)
